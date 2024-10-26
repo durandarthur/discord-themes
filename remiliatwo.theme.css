@@ -1,0 +1,49 @@
+/**
+ * @name Remilia2
+ * @author FeoreV
+ * @version 2.0.0
+ * @description Blur is the new black
+ * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
+ * @invite baEMQkgswT
+ * @website https://feorev.github.io/
+ * @authorId 489785940546551831
+ * @BDEditor FVUI
+*/
+
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ModularDesign.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/TitleIsland.css');
+
+:root {
+  --undefined: 0;
+  --color1: 50,30,30;
+  --color2: 24,9,9;
+  --color3: 244,67,54;
+  --undefined: 0;
+  --ColorOpacity: 1;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://feorev.github.io/Themes/Discord/FVUI/assets/HomeIcon/Icon.png');
+  --undefined: 0;
+  --FVUI: var(--subtheme);
+  --customdesc: "";
+  --image: url('https://i.imgur.com/FJYrj9A.jpeg');
+  --OpacityBG: 60%;
+  --BlurBG: 0px;
+  --undefined: 0;
+  --outline: 1px;
+  --outlineCLR: var(--color03);
+  --outlineBR: 16px;
+  --outlineMG: 1rem;
+  --outlineBS: 4px;
+  --outlineBGclr: unset;
+  --outlineBGalpha: 1;
+  --outlineBLUR: 0;
+}
+
+/* Any custom CSS below here */
+
+
