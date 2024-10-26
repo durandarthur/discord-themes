@@ -39,12 +39,12 @@
   --BlurBG: 0px;
   --undefined: 0;
   --outline: 1px;
-  --outlineCLR: var(--color03);
+  --outlineCLR: 237,14,14;
   --outlineBR: 16px;
-  --outlineMG: 1remrem;
+  --outlineMG: 2rem;
   --outlineBS: 4px;
-  --outlineBGclr: unset;
-  --outlineBGalpha: 1;
+  --outlineBGclr: 61,12,8;
+  --outlineBGalpha: 0.4;
   --outlineBLUR: 0;
 }
 
